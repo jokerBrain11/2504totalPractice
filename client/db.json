@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "jason",
+      "password": "123456",
+      "email": "john@example.com"
+    },
+    {
+      "id": 2,
+      "username": "leo",
+      "password": "654321",
+      "email": "jane@example.com"
+    }
+  ],
+  "products": [
+    { "id": 1, "name": "Product A", "price": 100 },
+    { "id": 2, "name": "Product B", "price": 200 },
+    { "id": 3, "name": "Product C", "price": 150 },
+    { "id": 4, "name": "Product D", "price": 250 },
+    { "id": 5, "name": "Product E", "price": 300 },
+    { "id": 6, "name": "Product F", "price": 400 },
+    { "id": 7, "name": "Product G", "price": 350 },
+    { "id": 8, "name": "Product H", "price": 450 },
+    { "id": 9, "name": "Product I", "price": 500 },
+    { "id": 10, "name": "Product J", "price": 600 },
+    { "id": 11, "name": "Product K", "price": 700 },
+    { "id": 12, "name": "Product L", "price": 800 }
+  ]
+}
